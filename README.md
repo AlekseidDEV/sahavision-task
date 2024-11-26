@@ -2,7 +2,7 @@
 
 1. Клонирование папки из репозитория
 ```
-   $ git clone https://github.com/AlekseidDEV/sahavision-task.git
+$ git clone https://github.com/AlekseidDEV/sahavision-task.git
 ```
 2. Перейти в папку с проектом
 
